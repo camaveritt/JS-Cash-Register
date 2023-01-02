@@ -1,1 +1,1 @@
-# JS-Cash-Register
+# JavaScript Cash Register
